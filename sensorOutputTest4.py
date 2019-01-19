@@ -103,9 +103,5 @@ while True:
             hx4.power_down()
             hx4.power_up()
             i = 0
-        # hx.power_down()
-        # hx.power_up()
-        # (0.5) = 0.5 of a second
-        # time.sleep(0.5)
     except (KeyboardInterrupt, SystemExit):
         cleanAndExit()
