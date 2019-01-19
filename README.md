@@ -1,2 +1,2 @@
 # DTCWalkerProject
-Source Code for weight monitoring walker. Built using a Raspberry Pi and Load Cells.
+Source Code + Imports for weight monitoring walker. Built using a Raspberry Pi and Load Cells.
